@@ -1,1 +1,1 @@
-apache-2.0
+cc-by-sa-4.0
