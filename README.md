@@ -66,3 +66,8 @@
 # 可能会有惊喜的地方
 
 [JavaGuide](https://javaguide.cn/)
+
+# 电子资源汇总
+
+[codeblocks-13.12mingw-setup-TDM-GCC-481安装包链接](https://www.aliyundrive.com/s/RC4D87DBncz)
+
